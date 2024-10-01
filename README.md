@@ -1,4 +1,6 @@
-# CG 2023/2024
+# Computer Graphics 2023/2024
+
+This repository contains the weekly labs and group project for the CG course unit at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
 
 ## Group T04G03
 | Name             | Number    | E-Mail             |
